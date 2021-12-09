@@ -1,3 +1,4 @@
+##以下readme文档以及yolox模型的实现源自于bubbliiiing大神，我所做的只是使用YOLOX的主干网络训练一个对遥感图像做的语义分割的模型，非常感谢bubbliiiing大神，该项目主要用于记录自己的学习历程，有什么问题，可以给我发email:2690486436qq.com
 ## YOLOX：You Only Look Once目标检测模型在Pytorch当中的实现
 ---
 
